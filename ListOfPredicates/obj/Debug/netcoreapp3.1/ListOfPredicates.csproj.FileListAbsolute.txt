@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\bin\Debug\netcoreapp3.1\ListOfPredicates.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ListOfPredicates\obj\Debug\netcoreapp3.1\ListOfPredicates.genruntimeconfig.cache
