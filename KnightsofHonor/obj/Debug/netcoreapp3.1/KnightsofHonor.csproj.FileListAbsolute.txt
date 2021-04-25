@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\bin\Debug\netcoreapp3.1\KnightsofHonor.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\bin\Debug\netcoreapp3.1\KnightsofHonor.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\bin\Debug\netcoreapp3.1\KnightsofHonor.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\bin\Debug\netcoreapp3.1\KnightsofHonor.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\bin\Debug\netcoreapp3.1\KnightsofHonor.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\bin\Debug\netcoreapp3.1\KnightsofHonor.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\obj\Debug\netcoreapp3.1\KnightsofHonor.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\obj\Debug\netcoreapp3.1\KnightsofHonor.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\obj\Debug\netcoreapp3.1\KnightsofHonor.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\obj\Debug\netcoreapp3.1\KnightsofHonor.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\obj\Debug\netcoreapp3.1\KnightsofHonor.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\obj\Debug\netcoreapp3.1\KnightsofHonor.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\KnightsofHonor\obj\Debug\netcoreapp3.1\KnightsofHonor.genruntimeconfig.cache

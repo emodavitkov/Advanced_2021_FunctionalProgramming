@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.genruntimeconfig.cache

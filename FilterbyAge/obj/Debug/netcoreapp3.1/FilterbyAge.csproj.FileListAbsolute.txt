@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.genruntimeconfig.cache

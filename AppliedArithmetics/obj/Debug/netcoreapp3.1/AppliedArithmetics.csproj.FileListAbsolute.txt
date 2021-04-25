@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.genruntimeconfig.cache

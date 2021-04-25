@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\bin\Debug\netcoreapp3.1\PredicateForNames.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\PredicateForNames\obj\Debug\netcoreapp3.1\PredicateForNames.genruntimeconfig.cache

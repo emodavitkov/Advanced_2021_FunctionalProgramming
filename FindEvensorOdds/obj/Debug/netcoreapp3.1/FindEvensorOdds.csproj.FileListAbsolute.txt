@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\bin\Debug\netcoreapp3.1\FindEvensorOdds.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\bin\Debug\netcoreapp3.1\FindEvensorOdds.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\bin\Debug\netcoreapp3.1\FindEvensorOdds.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\bin\Debug\netcoreapp3.1\FindEvensorOdds.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\bin\Debug\netcoreapp3.1\FindEvensorOdds.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\bin\Debug\netcoreapp3.1\FindEvensorOdds.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\obj\Debug\netcoreapp3.1\FindEvensorOdds.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\obj\Debug\netcoreapp3.1\FindEvensorOdds.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\obj\Debug\netcoreapp3.1\FindEvensorOdds.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\obj\Debug\netcoreapp3.1\FindEvensorOdds.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\obj\Debug\netcoreapp3.1\FindEvensorOdds.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\obj\Debug\netcoreapp3.1\FindEvensorOdds.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FindEvensorOdds\obj\Debug\netcoreapp3.1\FindEvensorOdds.genruntimeconfig.cache

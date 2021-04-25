@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\bin\Debug\netcoreapp3.1\FuncsUsage.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\bin\Debug\netcoreapp3.1\FuncsUsage.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\bin\Debug\netcoreapp3.1\FuncsUsage.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\bin\Debug\netcoreapp3.1\FuncsUsage.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\bin\Debug\netcoreapp3.1\FuncsUsage.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\bin\Debug\netcoreapp3.1\FuncsUsage.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\obj\Debug\netcoreapp3.1\FuncsUsage.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\obj\Debug\netcoreapp3.1\FuncsUsage.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\obj\Debug\netcoreapp3.1\FuncsUsage.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\obj\Debug\netcoreapp3.1\FuncsUsage.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\obj\Debug\netcoreapp3.1\FuncsUsage.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\obj\Debug\netcoreapp3.1\FuncsUsage.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\FuncsUsage\obj\Debug\netcoreapp3.1\FuncsUsage.genruntimeconfig.cache

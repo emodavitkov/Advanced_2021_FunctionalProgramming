@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\bin\Debug\netcoreapp3.1\ReverseАndExclude.exe
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\bin\Debug\netcoreapp3.1\ReverseАndExclude.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\bin\Debug\netcoreapp3.1\ReverseАndExclude.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\bin\Debug\netcoreapp3.1\ReverseАndExclude.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\bin\Debug\netcoreapp3.1\ReverseАndExclude.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\bin\Debug\netcoreapp3.1\ReverseАndExclude.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\obj\Debug\netcoreapp3.1\ReverseАndExclude.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\obj\Debug\netcoreapp3.1\ReverseАndExclude.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\obj\Debug\netcoreapp3.1\ReverseАndExclude.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\obj\Debug\netcoreapp3.1\ReverseАndExclude.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\obj\Debug\netcoreapp3.1\ReverseАndExclude.dll
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\obj\Debug\netcoreapp3.1\ReverseАndExclude.pdb
+C:\Users\A474627\source\repos\Advanced_2021_FUNCTIONAL_PROGRAMMING\ReverseАndExclude\obj\Debug\netcoreapp3.1\ReverseАndExclude.genruntimeconfig.cache
